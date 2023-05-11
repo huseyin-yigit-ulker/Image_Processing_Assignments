@@ -1,0 +1,1 @@
+The names of the images are <target_name><'+' if the result is successful, if not '-' >
